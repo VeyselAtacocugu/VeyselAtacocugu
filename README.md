@@ -2,10 +2,10 @@
 
 # Merhaba, ben Veysel Ataçocuğu
 
-### Full Stack Web Developer | React, PHP & MySQL
+### Full Stack Web Developer | React, Next.js, PHP & MySQL
 
-5 yılı aşkın web geliştirme deneyimine sahibim. Son 2 yıldır React, PHP ve MySQL ile
-frontend'den backend'e, API entegrasyonlarından canlı ortam desteğine kadar ürünün
+5 yılı aşkın web geliştirme deneyimine sahibim. Son 2 yıldır React, Next.js, PHP ve MySQL
+ile frontend'den backend'e, API entegrasyonlarından canlı ortam desteğine kadar ürünün
 farklı katmanlarında aktif sorumluluk alıyorum.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bağlantı_Kur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veysel-ata%C3%A7ocu%C4%9Fu-15263025b/)
@@ -35,6 +35,7 @@ farklı katmanlarında aktif sorumluluk alıyorum.
 ### Framework, Kütüphane ve Veritabanı
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Araçlar ve Dağıtım
@@ -49,7 +50,7 @@ farklı katmanlarında aktif sorumluluk alıyorum.
 ## Neler Yapıyorum?
 
 - Responsive ve mobile-first kullanıcı arayüzleri
-- React tabanlı frontend geliştirme
+- React ve Next.js ile frontend geliştirme
 - PHP ile backend süreçleri ve API entegrasyonları
 - Admin panelleri ve CRUD işlemleri
 - MySQL veritabanı tasarımı ve yönetimi
