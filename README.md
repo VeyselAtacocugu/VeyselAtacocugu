@@ -72,10 +72,14 @@ geliştirebilirim.
 
 ## Çalışma Yaklaşımım
 
-Bir değişikliği yalnızca çalıştığı için tamamlanmış saymıyorum. Özellikle API ve veritabanı
-işlemlerinde mevcut akışı, olası yan etkileri ve canlı ortam sonuçlarını netleştiriyorum.
-Kullandığım araçlardan bağımsız olarak üretilen çözümü anlamaya, doğrulamaya ve sorumluluğunu
-almaya önem veriyorum.
+Bir problemle karşılaştığımda görev sınırlarından önce sistemin ihtiyacına odaklanırım.
+Sorunun kaynağını anlamak, uygulanabilir bir çözüm geliştirmek, test etmek ve sonucu
+doğrulamak çalışma biçimimin temelini oluşturur.
+
+Bilmediğim bir konuyla karşılaştığımda araştırarak ve uygulayarak öğrenirim. Frontend,
+backend, veritabanı ve deployment süreçlerini birbirinden bağımsız parçalar olarak değil,
+aynı ürünün birbirini etkileyen katmanları olarak değerlendiririm. Pratik çözümler üretirken
+güvenilirlik ve sürdürülebilirlikten ödün vermemeye özen gösteririm.
 
 ---
 
