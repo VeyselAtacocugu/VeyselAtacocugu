@@ -4,9 +4,9 @@
 
 ### Full Stack Web Developer | React, Next.js, PHP & MySQL
 
-5 yılı aşkın web geliştirme deneyimine sahibim. Son 2 yıldır React, Next.js, PHP ve MySQL
-ile frontend'den backend'e, API entegrasyonlarından canlı ortam desteğine kadar ürünün
-farklı katmanlarında aktif sorumluluk alıyorum.
+5 yılı aşkın web geliştirme deneyimine sahibim. Fethiye'de [BöcekSoft](https://www.boceksoft.com/) bünyesinde
+React, Next.js, PHP ve MySQL ile frontend'den backend'e, API entegrasyonlarından canlı ortam
+desteğine kadar ürünün farklı katmanlarında aktif sorumluluk alıyorum.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bağlantı_Kur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veysel-ata%C3%A7ocu%C4%9Fu-15263025b/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profilim-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VeyselAtacocugu)
@@ -36,6 +36,9 @@ farklı katmanlarında aktif sorumluluk alıyorum.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Araçlar ve Dağıtım
@@ -50,7 +53,7 @@ farklı katmanlarında aktif sorumluluk alıyorum.
 ## Neler Yapıyorum?
 
 - Responsive ve mobile-first kullanıcı arayüzleri
-- React ve Next.js ile frontend geliştirme
+- React, Next.js ve Tailwind CSS ile frontend geliştirme
 - PHP ile backend süreçleri ve API entegrasyonları
 - Admin panelleri ve CRUD işlemleri
 - MySQL veritabanı tasarımı ve yönetimi
@@ -81,6 +84,32 @@ Bilmediğim bir konuyla karşılaştığımda araştırarak ve uygulayarak öğr
 backend, veritabanı ve deployment süreçlerini birbirinden bağımsız parçalar olarak değil,
 aynı ürünün birbirini etkileyen katmanları olarak değerlendiririm. Pratik çözümler üretirken
 güvenilirlik ve sürdürülebilirlikten ödün vermemeye özen gösteririm.
+
+---
+
+<div align="center">
+
+# Hi, I'm Veysel Ataçocuğu
+
+### Full Stack Web Developer | React, Next.js, PHP & MySQL
+
+I have 5+ years of web development experience. At [BöcekSoft](https://www.boceksoft.com/) in Fethiye,
+I work across frontend, backend, API integrations, and production support with React, Next.js, PHP, and MySQL.
+
+</div>
+
+## About
+
+- I completed vocational training in Database Programming and built on that foundation through 5+ years of web development.
+- I develop interfaces, backend processes, API integrations, and database operations.
+- I investigate production issues end to end, test the fix, and ship it safely.
+- I have hands-on experience in tourism and reservation systems, and I also take on web work in other industries.
+
+## How I Work
+
+I start from the problem, not from job titles. I trace the cause, apply a practical fix, test it,
+and confirm the result. I learn by researching and shipping. I treat frontend, backend, database,
+and deployment as parts of the same product.
 
 ---
 
