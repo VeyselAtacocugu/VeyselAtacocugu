@@ -17,7 +17,7 @@ farklı katmanlarında aktif sorumluluk alıyorum.
 
 ## Hakkımda
 
-- Veritabanı Programcılığı temeli üzerine 5 yılı aşkın web geliştirme deneyimine sahibim.
+- Mesleki eğitimimi Veritabanı Programcılığı alanında tamamladım; bu altyapıyı 5 yılı aşkın web geliştirme deneyimiyle ileri taşıdım.
 - Web arayüzleri, backend süreçleri, API entegrasyonları ve veritabanı işlemleri geliştiriyorum.
 - Canlı ortam sorunlarını uçtan uca analiz ediyor, çözümü test ederek devreye alıyorum.
 - Turizm ve rezervasyon sistemlerinde deneyimliyim; farklı sektörlerdeki web projelerine de açığım.
