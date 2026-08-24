@@ -2,10 +2,11 @@
 
 # Merhaba, ben Veysel Ataçocuğu
 
-### Full Stack Web Developer | Frontend, API & Production Support
+### Full Stack Web Developer | React, PHP & MySQL
 
-Turizm ve rezervasyon sistemlerinde; kullanıcı arayüzünden API entegrasyonlarına,
-veritabanı işlemlerinden canlı ortam desteğine kadar ürünün farklı katmanlarında çalışıyorum.
+5 yılı aşkın web geliştirme deneyimine sahibim. Son 2 yıldır React, PHP ve MySQL ile
+frontend'den backend'e, API entegrasyonlarından canlı ortam desteğine kadar ürünün
+farklı katmanlarında aktif sorumluluk alıyorum.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bağlantı_Kur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veysel-ata%C3%A7ocu%C4%9Fu-15263025b/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profilim-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VeyselAtacocugu)
@@ -16,11 +17,11 @@ veritabanı işlemlerinden canlı ortam desteğine kadar ürünün farklı katma
 
 ## Hakkımda
 
-- Frontend ve backend geliştirme süreçlerinde aktif sorumluluk alıyorum.
-- Rezervasyon, ödeme ve bildirim akışlarında oluşan sorunları uçtan uca inceliyorum.
-- API entegrasyonları, admin panelleri ve veritabanı işlemleri üzerinde çalışıyorum.
-- Canlı ortam sorunlarını analiz ediyor, güvenli ve sürdürülebilir çözümler geliştiriyorum.
-- Yapay zekâ destekli geliştirme araçlarını; üretilen çözümü sorgulayarak, doğrulayarak ve test ederek bilinçli biçimde kullanıyorum.
+- Meslek lisesinde Veritabanı Programcılığı eğitimi aldım.
+- Bilgisayar Programcılığı eğitimime devam ediyorum.
+- Web arayüzleri, backend süreçleri, API entegrasyonları ve veritabanı işlemleri geliştiriyorum.
+- Canlı ortam sorunlarını uçtan uca analiz ediyor, çözümü test ederek devreye alıyorum.
+- Turizm ve rezervasyon sistemlerinde deneyimliyim; farklı sektörlerdeki web projelerine de açığım.
 
 ## Teknolojiler
 
@@ -37,7 +38,7 @@ veritabanı işlemlerinden canlı ortam desteğine kadar ürünün farklı katma
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Araçlar ve Deployment
+### Araçlar ve Dağıtım
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -48,43 +49,40 @@ veritabanı işlemlerinden canlı ortam desteğine kadar ürünün farklı katma
 
 ## Neler Yapıyorum?
 
-- Responsive ve mobile-first web arayüzleri geliştiriyorum.
-- API entegrasyonları ve mevcut backend akışları üzerinde çalışıyorum.
-- Rezervasyon, ödeme, form ve SMS bildirim süreçlerini takip edip sorunlarını çözüyorum.
-- Admin panelleri, CRUD işlemleri ve MySQL veritabanı operasyonları gerçekleştiriyorum.
-- SEO, teknik SEO, web performansı ve cross-browser uyumluluğu üzerine iyileştirmeler yapıyorum.
-- SSH, FTP, domain, DNS, SSL/TLS ve hosting süreçlerini yönetiyorum.
-- Production sorunlarını analiz ediyor; hata düzeltme, teknik destek ve optimizasyon sağlıyorum.
+- Responsive ve mobile-first kullanıcı arayüzleri
+- React tabanlı frontend geliştirme
+- PHP ile backend süreçleri ve API entegrasyonları
+- Admin panelleri ve CRUD işlemleri
+- MySQL veritabanı tasarımı ve yönetimi
+- Rezervasyon, ödeme, form ve SMS bildirim akışları
+- Teknik SEO, performans ve tarayıcı uyumluluğu iyileştirmeleri
+- Canlı ortam desteği, hata analizi ve teknik bakım
 
-## Sektör ve Proje Deneyimi
+## Deneyim Alanlarım
 
-```text
-Turizm Yazılımları        Villa Kiralama Platformları
-Rezervasyon Sistemleri    Property Management Systems
-Ödeme Akışları            Admin Panelleri
-API Entegrasyonları       Production Support
-```
+- Turizm yazılımları ve kiralama platformları
+- Rezervasyon ve ödeme akışları
+- Yönetim panelleri ve içerik yönetimi
+- API ve üçüncü taraf servis entegrasyonları
+- Domain, DNS, SSL/TLS, hosting ve deployment süreçleri
+- Production desteği, hata giderme ve optimizasyon
+
+Sektör deneyimim turizm ağırlıklı olsa da geliştirdiğim çözümler belirli bir sektörle sınırlı
+değil. İhtiyaca göre kurumsal sitelerden özel web uygulamalarına kadar farklı projeler
+geliştirebilirim.
 
 ## Çalışma Yaklaşımım
 
 Bir değişikliği yalnızca çalıştığı için tamamlanmış saymıyorum. Özellikle API ve veritabanı
-işlemlerinde mevcut akışı, olası yan etkileri ve canlı ortam sonuçlarını netleştirdikten sonra
-uygulamaya geçiyorum. Amacım yalnızca problemi çözmek değil, güvenilir ve sürdürülebilir bir
-çözüm üretmek.
-
-## GitHub
-
-<div align="center">
-
-![Veysel'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=VeyselAtacocugu&show_icons=true&hide_title=true&hide_border=true&theme=transparent&locale=tr)
-
-</div>
+işlemlerinde mevcut akışı, olası yan etkileri ve canlı ortam sonuçlarını netleştiriyorum.
+Kullandığım araçlardan bağımsız olarak üretilen çözümü anlamaya, doğrulamaya ve sorumluluğunu
+almaya önem veriyorum.
 
 ---
 
 <div align="center">
 
-### Birlikte iyi fikirleri çalışan ürünlere dönüştürelim.
+### Birlikte güvenilir ve sürdürülebilir ürünler geliştirelim.
 
 [LinkedIn üzerinden iletişime geç](https://www.linkedin.com/in/veysel-ata%C3%A7ocu%C4%9Fu-15263025b/)
 
